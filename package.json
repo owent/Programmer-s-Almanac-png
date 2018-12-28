@@ -1,0 +1,18 @@
+{
+  "name": "programmer-s-almanac-png",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "phantomjs  --ignore-ssl-errors=true --load-images=true --local-url-access=true --output-encoding=utf-8 index.js"
+  },
+  "keywords": [
+    "almanac",
+    "png"
+  ],
+  "author": "owent",
+  "license": "MIT",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  }
+}

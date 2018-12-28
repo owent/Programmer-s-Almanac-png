@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Noto Sans Display Condensed Bold";
+    src: url(NotoSansDisplay-CondensedBold.ttf);
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: "Noto Sans Display Condensed Medium";
+    src: url(NotoSansDisplay-CondensedMedium.ttf);
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: "Noto Sans Display Condensed";
+    src: url(NotoSansDisplay-Condensed.ttf);
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: "Noto Sans CJK SC Bold";
+    src: url(NotoSansCJKsc-Bold.otf);
+}
+
+@font-face {
+    font-family: "Noto Sans CJK SC Medium";
+    src: url(NotoSansCJKsc-Medium.otf);
+}
+
+@font-face {
+    font-family: "Noto Sans CJK SC Regular";
+    src: url(NotoSansCJKsc-Regular.otf);
+}
