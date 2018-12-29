@@ -34,6 +34,7 @@ body {
 	font-weight: bold;
 	line-height: 170%;
 	text-align: center;
+	background-color: White;
 }
 
 .split, .clear {
@@ -118,6 +119,7 @@ body {
 	font-size: 90%;
 	margin-top: 2%;
 	margin-left: 1%;
+	background-color: White;
 }
 
 .direction_value {
